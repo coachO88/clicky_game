@@ -2,7 +2,7 @@
   "name": "clicky_game",
   "version": "0.1.0",
   "private": true,
-  // "homepage": "https://coacho88.github.io/clicky_game/",
+  "homepage": "https://coacho88.github.io/clicky_game/",
   "engines": {
     "node": "10.15.0",
     "npm": "6.4.1"
