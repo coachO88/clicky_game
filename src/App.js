@@ -20,7 +20,11 @@ class App extends Component {
           '../lew.jpg',
           '../mia.jpg',
           '../samurai.jpg',
-          '../stu.jpg'
+          '../stu.jpg',
+          '../sasha.jpg',
+          '../julia.jpg',
+          '../richard.jpg',
+          '../faith.jpg'
         ],
         clicked:[],
         points: 0
